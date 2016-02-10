@@ -25,6 +25,7 @@ build = {
   modules={
     ["lua-parser.parser"] = "lua-parser/parser.lua",
     ["lua-parser.pp"] = "lua-parser/pp.lua",
+    ["lua-parser.serialize"] = "lua-parser/serialize.lua",
     ["lua-parser.scope"] = "lua-parser/scope.lua",
   }
 }
